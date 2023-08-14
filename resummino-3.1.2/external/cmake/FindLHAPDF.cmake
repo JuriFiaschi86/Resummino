@@ -6,7 +6,7 @@
 # * LHAPDF_INCLUDE_DIRS - Set of paths to all required headers
 # * LHAPDF_LIBRARIES - Set of all required libraries
 
-find_library(LHAPDF_LIBRARIES LHAPDF HINTS ${LHAPDF}/lib64 ${LHAPDF}/lib $ENV{LHAPDF}/lib64 $ENV{LHAPDF}/lib ${LHAPDF_LIBDIR})
+find_library(LHAPDF_LIBRARIES LHAPDF HINTS ${LHAPDF}/lib64 ${LHAPDF}/lib $ENV{LHAPDF}/lib64 $ENV{LHAPDF}/lib ${LHAPDF_LIB_DIR})
 
 find_path(LHAPDF_INCLUDE_DIRS LHAPDF/LHAPDF.h HINTS ${LHAPDF}/include $ENV{LHAPDF}/include ${LHAPDF_INCLUDE_DIR})
 

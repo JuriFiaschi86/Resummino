@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #VER="latest"
-VER="3.1.2-latest"
+VER="3.1.3-latest"
 PROG="apptainer"
 if ! command -v apptainer &> /dev/null
 then

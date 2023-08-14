@@ -73,6 +73,7 @@ This docker image comes with some pdfs, see https://hub.docker.com/repository/do
 
 For general Resummino usage, please cite:
 
+ *   J. Fiaschi, B. Fuks, M. Klasen, and A. Neuwirth, [Eur. Phys. J. C 83, 707 (2023)](https://inspirehep.net/literature/2653773).
  *   B. Fuks, M. Klasen, D. R. Lamprea, and M. Rothering, [Eur. Phys. J. C 73, 2480 (2013)](https://inspirehep.net/literature/1226805). 
 
 For slepton pair production, please cite:

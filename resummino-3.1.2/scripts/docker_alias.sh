@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-VER="3.1.2-latest"
+VER="3.1.3-latest"
 if ! command -v lhapdf-config &> /dev/null
 then
     echo "<lhapdf-config> could not be found. Using limited preinstalled PDFs."

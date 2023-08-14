@@ -12,7 +12,7 @@
 #ifndef UTILS_H_
 #define UTILS_H_
 
-#define RESUMMINO_VERSION "3.1.2"
+#define RESUMMINO_VERSION "3.1.3"
 
 #include <cassert>
 #include <complex>
